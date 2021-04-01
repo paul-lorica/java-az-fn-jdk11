@@ -1,0 +1,7 @@
+{
+    "azureFunctions.deploySubpath": "target/azure-functions/azure-fn-java-1617308966467",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package"
+}
